@@ -3,7 +3,7 @@ using namespace std;
 
 int main ()
 {
-    int extra =1;
+    
     int x;
     cout<<"enter the number of students : ";
     cin>>x;
@@ -23,5 +23,5 @@ int main ()
         cout<<students[i]<<" ";
     }
 
-    cout<< extra;
+    
 }
